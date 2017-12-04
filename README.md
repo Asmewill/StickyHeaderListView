@@ -1,4 +1,5 @@
 
+
 ## StickyHeaderListView
 
 StickyHeaderListView是基于实际需求做出的灵活可变的UI视图，具体实现了如下功能：  
@@ -62,6 +63,8 @@ StickyHeaderListView是基于实际需求做出的灵活可变的UI视图，具�
 [个人博客](http://sunfusheng.com/)
 
 [新浪微博](http://weibo.com/u/3852192525)
+
+
 
 
 
